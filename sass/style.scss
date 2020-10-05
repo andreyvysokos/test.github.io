@@ -1,0 +1,10 @@
+@import "bootstrap.min.css";
+@import "slick.css";
+
+$black: #000;
+body{
+	font-family: 'Roboto', sans-serif;
+}
+
+@import "_mq.scss";
+@import "jquery.fancybox.min.css";
